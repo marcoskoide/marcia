@@ -1,3 +1,3 @@
 # marcia
 
-reposito da MCADaier 5, agora no devrelease
+reposito da MCADaier 6, agora no devrelease
