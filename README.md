@@ -1,4 +1,4 @@
 # marcia
 
-reposito da MCADaier 7, agora no main, desfazendo o merge e verificando a stagging (index) e o working directory
+reposito da MCADaier 8, agora no main, alterando apenas na working directory
 
